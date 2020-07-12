@@ -63,6 +63,7 @@
             <option value="$PROJECT_DIR$/Problems/Exactly one parameter is positive" />
             <option value="$PROJECT_DIR$/Problems/Extracting a substring" />
             <option value="$PROJECT_DIR$/Problems/Fill the declaration" />
+            <option value="$PROJECT_DIR$/Problems/Fill the matrix by numbers" />
             <option value="$PROJECT_DIR$/Problems/Find the max of three numbers" />
             <option value="$PROJECT_DIR$/Problems/First digit" />
             <option value="$PROJECT_DIR$/Problems/Fizz Buzz" />
@@ -113,6 +114,7 @@
             <option value="$PROJECT_DIR$/Problems/Reversing input numbers" />
             <option value="$PROJECT_DIR$/Problems/Right Rotation" />
             <option value="$PROJECT_DIR$/Problems/Robot control" />
+            <option value="$PROJECT_DIR$/Problems/Rotate a rectange array" />
             <option value="$PROJECT_DIR$/Problems/Shape" />
             <option value="$PROJECT_DIR$/Problems/Simulating a clock" />
             <option value="$PROJECT_DIR$/Problems/Size of parts" />
